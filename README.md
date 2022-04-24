@@ -17,3 +17,5 @@ Step 4: Click on the client and press launch.
 Step 5: Toggle all the modules by clicking them.
 
 Step 6: Watch your fps skyrocket
+
+download link: https://www.mediafire.com/file/2ninmpsu0fh15ka/BedrockBoost.zip/file
