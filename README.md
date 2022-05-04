@@ -18,4 +18,4 @@ Step 5: Toggle all the modules by clicking them.
 
 Step 6: Watch your fps skyrocket
 
-download link: https://www.mediafire.com/file/2ninmpsu0fh15ka/BedrockBoost.zip/file
+download link: https://www.mediafire.com/file/zx0oz78yqdx83jq/BedrockBoost_2.24.3.zip/file
